@@ -1,0 +1,1 @@
+şifreleme ile başlicak olursak belli karekter miktaında bir metin girilmesini istedim.Oluşan metin sadece ingiliz alfabesinin büyük harflerini okumaktadır.tabi bunun yanında bellli bir kaydırma mikrarınıda yazdırmak zorunda kaldım.girilen metin fonksiyon kullanarak boyutunu ölçtüm ve bunu okutturdum.en sonunda ise girilen metni belli bir miktar kaydırarak şifre çözülmüş oldu. 
